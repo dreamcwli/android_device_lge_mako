@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_mako.mk
+    $(LOCAL_DIR)/full_mako.mk \
+    $(LOCAL_DIR)/my_mako.mk
